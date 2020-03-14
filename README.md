@@ -97,7 +97,7 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 - Golden Leaf
 - Golden Tulip
 - Good Nite Inn
-- Grand Hyatt
+- [Grand Hyatt](hotel/hyatt.md)
 - Grange
 - Green Tree Inns
 - Hampshire
@@ -114,10 +114,10 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 - Home Inns Group
 - Hotusa Hotels
 - Howard Johnson
-- Hyatt Hotels
-- HYATT house
-- Hyatt Place
-- Hyatt Regency
+- [Hyatt Hotels](hotel/hyatt.md)
+- [HYATT house](hotel/hyatt.md)
+- [Hyatt Place](hotel/hyatt.md)
+- [Hyatt Regency](hotel/hyatt.md)
 - Iberostar
 - ibis
 - ibis Styles
@@ -151,7 +151,7 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 - OHANA Hotels & Resorts
 - Outrigger Hotels & Resorts
 - Pan Pacific Hotels and Resorts
-- Park Hyatt
+- [Park Hyatt](hotel/hyatt.md)
 - Park Inn by Radisson
 - Preferred Hotels & Resorts
 - Premier Inn

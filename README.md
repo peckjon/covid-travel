@@ -33,6 +33,7 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 - Kemwel
 - Maven (car sharing)
 - Rent-a-Wreck
+- SIXT
 - Uhaul Car Share
 - Zipcar
 

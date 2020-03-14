@@ -2,7 +2,7 @@
 
 As the Coronavirus spreads, many travelers have been forced to alter or cancel their plans. In response, many services are temporarily relaxing their change & cancellation policies, by waiving change fees, providing vouchers, or expanding their cancellation windows.
 
-We'll keep this info as up-do-date as we are able. Community contributions are welcome -- just click the edit button / create a Pull Request.
+We'll keep this info as up-do-date as we are able. Community contributions are welcome -- just click the edit button / create a Pull Request. Please cite your sources so we can verify information as it comes in.
 
 ## Airlines
 

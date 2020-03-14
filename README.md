@@ -22,8 +22,8 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 - ACE Rent a Car
 - American Car Rental Association
 - Auto Europe
-- Avis Budget Group
-- Avis Car Rental
+- [Avis Budget Group](car/avis.md)
+- [Avis Car Rental](car/avis.md)
 - Budget Rent a Car
 - Canvas (car company)
 - Cruise America

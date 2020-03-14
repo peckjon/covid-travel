@@ -6,7 +6,7 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 
 ## Airlines
 
-- Alaska Airlines
+- [Alaska Airlines](airline/alaska.md)
 - Allegiant Air
 - American Airlines
 - Delta Air Lines

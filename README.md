@@ -1,6 +1,6 @@
 # Change & Cancellation fee policies enacted by airlines, hotels, and car rental agencies during COVID-19
 
-https://peckjon.github.io/covid-travel/
+[peckjon.github.io/covid-travel](https://peckjon.github.io/covid-travel/)
 
 As the Coronavirus spreads, many travelers have been forced to alter or cancel their plans. In response, many services are temporarily relaxing their change & cancellation policies, by waiving change fees, providing vouchers, or expanding their cancellation windows.
 

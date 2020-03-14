@@ -6,10 +6,10 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 
 ## Airlines
 
-- [Alaska Airlines](airline/alaska.md)
+- [Alaska Airlines](airline/alaska.md) - most change and cancellation fees waived (within travel window)
 - Allegiant Air
 - American Airlines
-- [Delta Air Lines](airline/delta.md)
+- [Delta Air Lines](airline/delta.md) - most change fees waived (within travel window)
 - Frontier Airlines
 - Hawaiian Airlines
 - JetBlue
@@ -22,8 +22,8 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 - ACE Rent a Car
 - American Car Rental Association
 - Auto Europe
-- [Avis Budget Group](car/avis.md)
-- [Avis Car Rental](car/avis.md)
+- [Avis Budget Group](car/avis.md) - change fees waived
+- [Avis Car Rental](car/avis.md) - change fees waived
 - Budget Rent a Car
 - Canvas (car company)
 - Cruise America
@@ -97,7 +97,7 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 - Golden Leaf
 - Golden Tulip
 - Good Nite Inn
-- [Grand Hyatt](hotel/hyatt.md)
+- [Grand Hyatt](hotel/hyatt.md) - change and cancellation fees waived (within travel window) (24h advance notice)
 - Grange
 - Green Tree Inns
 - Hampshire
@@ -114,10 +114,10 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 - Home Inns Group
 - Hotusa Hotels
 - Howard Johnson
-- [Hyatt Hotels](hotel/hyatt.md)
-- [HYATT house](hotel/hyatt.md)
-- [Hyatt Place](hotel/hyatt.md)
-- [Hyatt Regency](hotel/hyatt.md)
+- [Hyatt Hotels](hotel/hyatt.md) - change and cancellation fees waived (within travel window) (24h advance notice)
+- [HYATT house](hotel/hyatt.md) - change and cancellation fees waived (within travel window) (24h advance notice)
+- [Hyatt Place](hotel/hyatt.md) - change and cancellation fees waived (within travel window) (24h advance notice)
+- [Hyatt Regency](hotel/hyatt.md) - change and cancellation fees waived (within travel window) (24h advance notice)
 - Iberostar
 - ibis
 - ibis Styles
@@ -205,3 +205,9 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 - Wingate by Wyndham
 - Worldhotels
 - Wyndham Hotels & Resorts
+
+---
+
+## Disclaimer
+
+This site is not maintained by any of the above entities. While we attempt to verify and correctly reflect their policies, you should always refer to the original source as authoritative.

@@ -17,7 +17,7 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 - Spirit Airlines
 - United Airlines
 
-- ## Hotels
+## Hotels
 
 - Abode
 - AC Hotels

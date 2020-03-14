@@ -17,6 +17,23 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 - Spirit Airlines
 - United Airlines
 
+## Rental Cars
+
+- ACE Rent a Car
+- American Car Rental Association
+- Auto Europe
+- Avis Budget Group
+- Avis Car Rental
+- Budget Rent a Car
+- Canvas (car company)
+- Cruise America
+- JustShareIt
+- Kemwel
+- Maven (car sharing)
+- Rent-a-Wreck
+- Uhaul Car Share
+- Zipcar
+
 ## Hotels
 
 - Abode
@@ -188,20 +205,3 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 - Wingate by Wyndham
 - Worldhotels
 - Wyndham Hotels & Resorts
-
-## Rental Cars
-
-- ACE Rent a Car
-- American Car Rental Association
-- Auto Europe
-- Avis Budget Group
-- Avis Car Rental
-- Budget Rent a Car
-- Canvas (car company)
-- Cruise America
-- JustShareIt
-- Kemwel
-- Maven (car sharing)
-- Rent-a-Wreck
-- Uhaul Car Share
-- Zipcar

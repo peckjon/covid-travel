@@ -9,7 +9,7 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 - [Alaska Airlines](airline/alaska.md)
 - Allegiant Air
 - American Airlines
-- Delta Air Lines
+- [Delta Air Lines](airline/delta.md)
 - Frontier Airlines
 - Hawaiian Airlines
 - JetBlue

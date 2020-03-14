@@ -151,7 +151,7 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 - OHANA Hotels & Resorts
 - Outrigger Hotels & Resorts
 - Pan Pacific Hotels and Resorts
-- [Park Hyatt](hotel/hyatt.md)
+- [Park Hyatt](hotel/hyatt.md) - change and cancellation fees waived (within travel window) (24h advance notice)
 - Park Inn by Radisson
 - Preferred Hotels & Resorts
 - Premier Inn

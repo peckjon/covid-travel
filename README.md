@@ -9,15 +9,15 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 ## Airlines
 
 - [Alaska Airlines](airline/alaska.md) - most change and cancellation fees waived (within travel window)
-- Allegiant Air
-- American Airlines
+- [Allegiant Air](airline/allegiant.md) - travel credit valid for 1 year
+- [American Airlines](airline/american.md) - one free change, or cancel and use the value for future travel
 - [Delta Air Lines](airline/delta.md) - most change fees waived (within travel window)
-- Frontier Airlines
-- Hawaiian Airlines
-- JetBlue
-- Southwest Airlines
+- [Frontier Airlines](airline/frontier.md) - change or cancel without fees through April 30
+- [Hawaiian Airlines](airline/hawaiian.md) - one-time waiver of change fees for most regions
+- [JetBlue](airline/jetblue.md) - fees suspended, travel credit good for 1 year
+- [Southwest Airlines](airline/southwest.md) - Southwest Airlines never charges a fee to change or cancel a flight
 - [Spirit Airlines](airline/spirit.md) - 6-month voucher
-- United Airlines
+- [United Airlines](airline/united.md) - fees waived for original travel dates of March 9 to April 30
 
 ## Rental Cars
 

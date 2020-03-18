@@ -33,7 +33,7 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 - Kemwel
 - Maven (car sharing)
 - Rent-a-Wreck
-- SIXT
+- SIXT(car/sixt.md) - only with "note from doctor"
 - Uhaul Car Share
 - Zipcar
 

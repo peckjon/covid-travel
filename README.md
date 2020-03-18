@@ -16,7 +16,7 @@ We'll keep this info as up-do-date as we are able. Community contributions are w
 - Hawaiian Airlines
 - JetBlue
 - Southwest Airlines
-- Spirit Airlines
+- [Spirit Airlines](airline/spirit.md) - 6-month voucher
 - United Airlines
 
 ## Rental Cars

@@ -4,7 +4,7 @@
 
 ---
 
-## [Neighbor Islands](https://www.hawaiianairlines.com/alerts/covid-19-ni)
+## [US Mainland](https://www.hawaiianairlines.com/alerts/covid-19-us-domestic) and [Neighbor Islands](https://www.hawaiianairlines.com/alerts/covid-19-ni)
 
 For guests who would like to cancel or change their flight
 ----------------------------------------------------------
@@ -19,6 +19,6 @@ Additional waiver details
 -   The unused value of the ticket may be applied toward the purchase of a new ticket for a period of one year from the original ticket issuance date
 -   Hawaiian Airlines Reservations handling fees and HawaiianMiles award redeposit fees will be waived
 
-## [International Travel]
+## International Travel
 
 [Varies by region](https://www.hawaiianairlines.com/alerts/covid-19-international)

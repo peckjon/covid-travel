@@ -5,3 +5,5 @@
 ---
 
 For right now, we are not issuing refunds without supporting documentations from your doctor.
+
+![For right now, we are not issuing refunds without supporting documentations from your doctor.](2020-03-15 21.49.19.png)

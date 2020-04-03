@@ -1,5 +1,30 @@
 # Delta
 
+---
+[Update 4/3/2020](https://www.delta.com/us/en/advisories/coronavirus-travel/overview)
+
+**It‘s easy to cancel, make changes or rebook online**
+
+We’re here to help. Visit [My Trips](https://www.delta.com/mytrips/) to make changes to your flight(s) any time before your travel date. 
+
+**Extending flight credits even further**
+
+We’ve listened, and we know that you want the value of your ticket to be secure and redeemable for a longer period. We’re now extending the ability to plan, re-book and travel with us for up to **two years.**     
+
+Tickets normally expire one year after purchase, but we’re providing waived change fees and greater flexibility to travel through May 31, 2022, for customers who:  
+
+*   have upcoming travel already booked in April or May 2020 as of April 3, 2020 
+*   have existing eCredits or canceled travel from flights in March, April or May 2020
+
+**Rest assured your eCredits are safe even as we work to process updates** 
+
+All applicable eCredits will be automatically extended to May 2022 so there’s no action needed on your part. We are actively working on a solution to display the new expiration dates in [all the places you can find your eCredits](https://www.delta.com/global/en/advisories/coronavirus-travel/how-to-cancel-or-change-your-flight) on delta.com. So even if your eCredit for canceled travel has not yet been processed or extended, or is temporarily displaying incorrectly, there is no need to call. Rest assured your flight value is secure through May 2022 and will be ready to redeem online when you need it.  
+
+Tickets purchased between March 1 and May 31, 2020, can be changed without a change fee for up to a year from the date you purchased it.
+
+---
+
+
 [Official statement](https://news.delta.com/flight-changes-flexible-fee-waivers-and-more)
 
 ---
